@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/joel-r-tharakan/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:joelrtharakan@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://joeltharakanr.web.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?logo=githubpages&logoColor=white&style=for-the-badge" />
   </a>
@@ -150,9 +147,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-r-tharakan/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joelrtharakan@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://joeltharakanr.web.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" />
